@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) – Superstore Dataset
+# Exploratory Data Analysis (EDA)
 
 ## 📌 Project Overview
 
