@@ -267,7 +267,7 @@ The notebook focuses on:
 ```text
 Ecommerce-Order-Data-Cleaning/
 │
-├── Ecommerce_Order_Data_Cleaning.ipynb
+├── EDA 1.ipynb
 ├── Ecommerce_Order_Test_Dataset.csv
 └── README.md
 ```
