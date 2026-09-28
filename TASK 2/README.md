@@ -198,7 +198,7 @@ The notebook includes the following visualizations:
 Superstore-Sales-Profit-Analysis/
 │
 ├── superstore_raw.csv
-├── Superstore_Sales_Profit_Analysis.ipynb
+├── EDA2.ipynb
 └── README.md
 ```
 
