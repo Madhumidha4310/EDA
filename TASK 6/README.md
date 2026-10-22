@@ -114,3 +114,6 @@ Healthcare-Data-Visualization/
 
 ---
 
+## Author
+
+**Madhumidha**
