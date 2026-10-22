@@ -116,9 +116,15 @@ Exact results depend on the contents of StudentsPerformance.csv.
 ---
 
 ## Project Structure
+```
 Student-Performance-Analysis/
 ├── student_performance.py
 ├── StudentsPerformance.csv
 └── README.md
+```
 
 ---
+
+## Author
+
+**Madhumidha**
